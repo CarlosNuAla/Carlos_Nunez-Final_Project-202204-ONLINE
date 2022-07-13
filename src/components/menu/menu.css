@@ -1,0 +1,18 @@
+nav.menu {
+    background-color: #dad732;
+    min-width: max-content;
+    color: white;
+    padding: 0.5rem
+}
+.menu ul {
+    margin: 0px;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.menu a {
+    text-decoration: none;
+    color: inherit;
+}
