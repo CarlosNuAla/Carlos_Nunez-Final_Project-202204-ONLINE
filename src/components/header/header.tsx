@@ -7,7 +7,7 @@ export function Header({children}: {children:JSX.Element}) {
             <div className="App-header">
                 <img src={logo} className="App-logo" alt="logo" />
                 <h1 className="contain-overload">
-                yourRecipeBook
+                yourRecipesBook
                     <span>V</span>
                     <span>E</span>
                     <span>G</span>

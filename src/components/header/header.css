@@ -11,7 +11,7 @@
   }
   
   .App-header {
-    background-color: #2aec10;
+    background-color: #7fe272;
     min-width: max-content;
     color: white;
     display: flex;
@@ -30,12 +30,14 @@
   }
   
   .contain-overload {
+    font-size: 8vmin;
+    min-width: max-content;
     font-weight: 600;
     text-shadow: -0.08em 0.03em 0.12em rgba(0, 0, 0, 1);
   }
   
   h1 span {
-    font-size: 7vmax;
+    font-size: 10vmin;
     font-weight: 800;
     text-shadow: -0.08em 0.03em 0.12em rgba(0, 0, 0, 3);
   }
