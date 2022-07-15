@@ -2,17 +2,19 @@ nav.menu {
     background-color: #dad732;
     min-width: max-content;
     color: white;
-    padding: 0.5rem
 }
 .menu ul {
-    margin: 0px;
-    list-style: none;
+    padding: 0.5rem;
     display: flex;
+    flex-direction: row;
     justify-content: space-around;
     align-items: center;
+    margin: 0px;
+    list-style: none;
 }
 
 .menu a {
+    font-size: 4vmin;
     text-decoration: none;
     color: inherit;
 }

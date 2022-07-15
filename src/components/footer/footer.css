@@ -1,5 +1,7 @@
 footer {
-    background-color: #2aec10;
+    background-color: #7fe272;
+    font-size: 3vmin;
+    min-width: max-content;
     min-height: 7vh;
     display: flex;
     flex-direction: column;
