@@ -1,12 +1,12 @@
-import { getAllRecipes } from "../services/api-test";
+import { RecipesList } from "../components/recipes-list/recipes-list";
+
 export function Recipes() {
-
-getAllRecipes()
-
-
     return (
         <>
             <h2>Recipes List</h2>
+            <RecipesList></RecipesList>
         </>
     );
 }
+
+export default Recipes;
